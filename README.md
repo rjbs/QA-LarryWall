@@ -1,6 +1,6 @@
 # Q&A with Larry Wall
 
-At the Perl conference, [YAPC::NA](http://yapcna.org/), there will be a ninety
+At the Perl conference [YAPC::NA](http://yapcna.org/), there will be a ninety
 minute [question and answer session with Larry
 Wall](http://www.yapcna.org/yn2015/event/1693).
 
@@ -16,3 +16,6 @@ If you've got a topic or question you'd like asked, file an GitHub issue
 or comment on an existing issue.  If you'd rather I keep your amazing question
 close to my chest, or if you don't want to use GitHub, you can send me an email
 at rjbs@cpan.org.
+
+The conference will be held in Salt Lake City, June 8th through 10th.  You
+should consider attending!
