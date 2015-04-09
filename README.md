@@ -6,7 +6,7 @@ Wall](http://www.yapcna.org/yn2015/event/1693).
 
 [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) is the creator of Perl,
 `rn`, `patch`, and other revolutionary monstrosities.  He's smart, funny, and
-full of interesting things to say.  I will be acting as host, asking him
+full of interesting things to say.  I will be acting as host and asking him
 questions.  My goal is to have great questions that coax the most interesting
 answers possible out of him.
 
